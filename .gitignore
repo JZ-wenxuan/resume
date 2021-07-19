@@ -1,1 +1,3 @@
-.latex_out
+.latex_out/*
+
+!resume.pdf
